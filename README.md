@@ -5,7 +5,7 @@ I'm Barkev from Turkey, and my current focus is on designing algorithms. I have 
 
 - 🔭 I’m currently working on C: **periodic_table.c**
 
-- 🌱 I’m currently learning Data Visualization on **HarvardX course on edX**
+- 🌱 I’m currently learning App Development on **Udemy**
 
 - 🤝 I’m looking for help to enhance my knowledge
 
