@@ -3,7 +3,7 @@
 I'm Barkev from Turkey, and my current focus is on designing algorithms. I have a strong passion for learning and implementing programming languages, ranging from low-level to high-level. I thrive on challenges and enjoy struggling.
 
 
-- 🔭 I’m currently working on C: **periodic_table.c**
+- 🔭 I’m currently working on Swift
 
 - 🌱 I’m currently learning App Development on **Udemy**
 
