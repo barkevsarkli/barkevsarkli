@@ -1,20 +1,20 @@
 ### Hi there 👋, Barkev Şarklı
-#### An ambitious undergraduate student
-I am an ambitious undergraduate student pursuing a degree in Computer Engineering and Mechatronics at Kadir Has University.
+#### An undergraduate student at Kadir Has University
+* #### I am an ambitious undergraduate student pursuing a degree in Computer Engineering and Mechatronics at Kadir Has University.
 
-I am currently focusing on App Development, AI, and Robotics by creating my own applications and participating in new online courses.
+* ####  I am currently focusing on App Development, AI, and Robotics by creating my own applications and participating in new online courses.
 
-- 🔭 I’m currently working on **Swift**
+  - 🔭 I’m currently working on **Swift**
 
-- 🌱 I’m currently learning App Development on **Udemy**
+  - 🌱 I’m currently learning App Development on **Udemy**
 
-- 🤝 I’m looking for help to enhance my knowledge
+  - 🤝 I’m looking for help to enhance my knowledge
 
-- 💬 Feel free to contact me anytime if you have ideas or suggestions for enhancing the code
+  - 💬 Feel free to contact me anytime if you have ideas or suggestions for enhancing the code
 
-- 📫 How to reach me **sarklibarkev@gmail.com**
+  - 📫 How to reach me **sarklibarkev@gmail.com**
 
-- ⚡ **I love CS50 <3**
+  - ⚡ **I love CS50 <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +26,3 @@ I am currently focusing on App Development, AI, and Robotics by creating my own 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,r,mysql,sqlite,swift)](https://skillicons.dev)
 
 [<img src='periodic_table.png' alt='github' height='400'>](https://github.com/barkevsarkli)  
-
-
