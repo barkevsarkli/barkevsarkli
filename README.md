@@ -1,12 +1,12 @@
 ### Hi there 👋, Barkev Şarklı
-#### An undergraduate student at Kadir Has University
+#### An undergraduate third-year student at Kadir Has University
 * #### I am an ambitious undergraduate student pursuing a degree in Computer Engineering and Mechatronics at Kadir Has University.
 
-* ####  I am currently focusing on App Development, AI, and Robotics by creating my own applications and participating in new online courses.
+* ####  I am currently focusing on deep learning by creating my own applications and participating in new online courses.
 
-  - 🔭 I’m currently working on **Swift**
+  - 🔭 I’m currently working on **Python** and **Cpp**
 
-  - 🌱 I’m currently learning App Development on **Udemy**
+  - 🌱 I’m currently learning Different Deep Learning Algorithms on **Coursera**
 
   - 🤝 I’m looking for help to enhance my knowledge
 
